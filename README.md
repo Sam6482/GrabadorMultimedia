@@ -16,6 +16,6 @@ Esta aplicacion es para **Andorid** funciona grabando :
  
      | id | Composable |
 
-     |-----------------|
+     |---------|--------|
      | 1 | El samuel   |
      
